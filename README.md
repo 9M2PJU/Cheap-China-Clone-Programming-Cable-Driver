@@ -5,3 +5,5 @@
 
 
 Prolific USB to Serial Comm Port Version 3.2.0.0 year 2007
+Works best on Windows 10
+
